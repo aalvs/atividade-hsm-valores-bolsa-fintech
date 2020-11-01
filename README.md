@@ -31,6 +31,8 @@ O programa deve apresentar as médias semanais (a menor e maior) e mensal.
 
 # 📝 Sobre o projeto
 
+- Curso Lógica de Programação Orientada a Objetos
+
 Este é um projeto acadêmico. Seu principal objetivo é facilitar a avaliação dos professores.
 
 ---
